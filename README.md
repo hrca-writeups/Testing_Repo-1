@@ -1,4 +1,6 @@
 # Testing_Repo
+new changes
+
 Dummy repo for testing own commits and stuff
 
 Hrca - Commit 1
